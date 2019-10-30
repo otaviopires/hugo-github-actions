@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo &#43; GitHub Actions Hello World</title>
-    <link>https://otaviopires.github.io/categories/</link>
+    <link>https://otaviopires.github.io/hugo-github-actions/docs/categories/</link>
     <description>Recent content in Categories on Hugo &#43; GitHub Actions Hello World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://otaviopires.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://otaviopires.github.io/hugo-github-actions/docs/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
