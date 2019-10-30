@@ -1,4 +1,4 @@
-baseURL = "https://otaviopires.github.io"
+baseURL = "https://otaviopires.github.io/hugo-github-actions/"
 languageCode = "en-us"
 title = "Hugo + GitHub Actions Hello World"
 theme = "ananke"
