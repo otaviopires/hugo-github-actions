@@ -1,5 +1,5 @@
-baseURL = "https://otaviopires.github.io/hugo-github-actions/"
+baseURL = "https://otaviopires.github.io/hugo-github-pages/"
 languageCode = "en-us"
-title = "Hugo + GitHub Actions Hello World"
+title = "Hugo + GitHub Pages Hello World"
 theme = "ananke"
 publishDir = "docs"

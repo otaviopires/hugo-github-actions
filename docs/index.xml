@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo &#43; GitHub Actions Hello World</title>
-    <link>https://otaviopires.github.io/hugo-github-actions/</link>
-    <description>Recent content on Hugo &#43; GitHub Actions Hello World</description>
+    <title>Hugo &#43; GitHub Pages Hello World</title>
+    <link>https://otaviopires.github.io/hugo-github-pages/</link>
+    <description>Recent content on Hugo &#43; GitHub Pages Hello World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://otaviopires.github.io/hugo-github-actions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://otaviopires.github.io/hugo-github-pages/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
